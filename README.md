@@ -19,9 +19,9 @@ BILP (Binary Integer Linear programing); Reduction; Transform
 
 Necessary environment:
 
-1.Matlab
+1.Matlab(R2016a)
 
-2.Gurobi Optimization
+2.Gurobi Optimization(7.5.1)
 
 Running step:
 
@@ -29,5 +29,5 @@ Running step:
 
 2.Open Matlab run the file 'milp_jobNew.m'
 
-3.The result will save current directory,if sat it will save path file into 'result' folder
+3.The result will be saved in current directory,if sat results will be saved path to 'result' folder
 
