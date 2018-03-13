@@ -1,6 +1,8 @@
 # SAT-Gurobi
 An Efficient Method to Transform SAT problems to Binary Integer Linear Programming Problems （Under Review)
-Abstract—There exists a method to reduce a 3-SAT (Satifiability)
+
+Abstract：
+There exists a method to reduce a 3-SAT (Satifiability)
 problem to a Subset Sum Problem (SSP) in the literature,
 however, it can only be applied to small or medium size problems.
 Our study is to find an efficient method to transform general
